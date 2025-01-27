@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This project finds the driving factor of loan defaults and provide necessary analysis to lending Club to determine to approve or reject future loans
+> The Lending Club dataset involves predicting whether a loan will be fully paid or charged off (defaulted). This is a classic binary classification problem in machine learning. Our goal is to analyze the data, build a predictive model, and derive actionable insights.
 
 
 <!-- You can include any other section that is pertinent to your problem -->
