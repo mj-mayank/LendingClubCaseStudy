@@ -4,16 +4,18 @@ The Lending Club dataset involves predicting whether a loan will be fully paid o
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+## Dataset Details:
+In the given dataset, there are 111 columns with total rows as 39717. The data set is from past loan applications which show the status of Default, Current or Fully paid.
+We have 2 types of variables:
+- One which gives information about the customer behavior while paying the loan.
+- Second types of variables are which impact the loan decision for the company like employment length, home ownership, verification status.
 
-The basis idea for the analysis is to understand the driving factor leading to loan default.
-
+## Steps Taken:
 The analysis is divided into four main parts:
-1. Data understanding
-2. Data cleaning (cleaning missing values, removing columns which are not used for analysis etc.)
-3. Data Analysis
-4. Recommendations
-
+1. Data cleaning & Preprocessing
+2. Exploratory Data Analysis
+3. Feature Engineering
+4. Model Building & Recommendations
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
